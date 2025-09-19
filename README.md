@@ -1,6 +1,6 @@
 # Master Thesis Thilo Bergner
 ### The relationship between affect dynamics during psychotherapy and depression: A pilot study using a large language model
-
+---
 This repository contains all code and analyses for my master’s thesis. The knitted HTML reports are accessible via the links below:
 
 1) [MA_1_Sentiment_Analysis](https://thilobergner.github.io/master-thesis/MA_1_Sentiment_Analysis.html) contains the pre-processing of the session transcripts, setting up of the large language model XLM-T and the sentiment prediction.
